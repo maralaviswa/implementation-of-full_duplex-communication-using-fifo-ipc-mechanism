@@ -1,0 +1,1 @@
+# implementation-of-full_duplex-communication-using-fifo-ipc-mechanism
